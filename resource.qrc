@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>resource/alert.png</file>
+        <file>resource/clock.png</file>
+        <file>resource/correct.png</file>
+        <file>resource/file.png</file>
+        <file>resource/project.png</file>
+        <file>resource/tree.png</file>
+    </qresource>
+</RCC>
